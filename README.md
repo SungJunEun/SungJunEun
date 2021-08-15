@@ -12,7 +12,7 @@
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 
 
-### Stats
+### Stats ❄️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungJunEun&show_icons=true&theme=nord)
 
 
