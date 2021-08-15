@@ -1,5 +1,6 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=random&height=300&section=footer&text=eunsungjun%20render&fontSize=90&animation=fadeIn)
+)
 
 
 
