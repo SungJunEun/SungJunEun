@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=random&height=300&section=footer&text=sungjuneun%20&fontSize=90&animation=fadeIn)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSungJunEun&count_bg=%23C0C0C0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
 
