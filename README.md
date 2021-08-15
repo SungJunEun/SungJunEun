@@ -24,6 +24,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungJunEun&show_icons=true&theme=nord)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SungJunEun&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
