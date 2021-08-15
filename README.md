@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=random&height=300&section=footer&text=sungjuneun&fontColor=C0C0C0%20&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=random&height=300&section=footer&text=sungjuneun%20&fontSize=90&animation=fadeIn)
 )
 
 
