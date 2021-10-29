@@ -21,6 +21,7 @@
 <br/>
 
 ## Stats ❄️
+![Codewars](https://www.codewars.com/users/SungJunEun/badges/large) <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungJunEun&show_icons=true&theme=nord)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungJunEun&layout=compact&theme=nord)](https://github.com/SungJunEun/github-readme-stats)
